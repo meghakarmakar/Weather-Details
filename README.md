@@ -26,7 +26,7 @@ The Weather App is a simple web application that allows users to enter a locatio
 ```bash
 git clone https://github.com/yourusername/weather-app.git
 cd weather-app
-
+```
 ## Usage
 
 - *Enter a Location*: Type the name of a city or location into the input field and click the "Get Weather" button.
