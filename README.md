@@ -24,8 +24,7 @@ The Weather App is a simple web application that allows users to enter a locatio
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/weather-app.git
-cd weather-app
+git clone https://github.com/meghakarmakar/Weather-Details.git
 ```
 ## Usage
 
